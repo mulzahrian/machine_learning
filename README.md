@@ -2,6 +2,6 @@
 
 clone the repo
 ```
-git clone https://github.com/mulzahrian/skill_upPHP.git
+https://github.com/mulzahrian/machine_learning.git
 ```
 readme me will be updated
