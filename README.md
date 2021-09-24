@@ -4,7 +4,7 @@
 ```
 https://github.com/mulzahrian/machine_learning.git
 ```
--Running Code with add the code in google colab
+- Running Code with add the code in google colab
 ```
 https://colab.research.google.com/notebooks/intro.ipynb
 ```
